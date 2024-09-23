@@ -1,0 +1,12 @@
+[submodule "zokrates-tornado"]
+	path = zokrates-tornado
+	url = https://github.com/matzapata/zokrates-tornado.git
+[submodule "zokrates-airdrop"]
+	path = zokrates-airdrop
+	url = https://github.com/matzapata/zokrates-airdrop
+[submodule "zokrates-vote"]
+	path = zokrates-vote
+	url = https://github.com/matzapata/zokrates-vote
+[submodule "zokrates-starter"]
+	path = zokrates-starter
+	url = https://github.com/matzapata/zokrates-starter
